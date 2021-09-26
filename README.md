@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leonardijulia
+- 👀 I’m interested in New Technologies, Geoinformatics, GIS & Geospatial Data Analysis
+- 🌱 I’m currently pursuing a Master of Science degree in Geoinformatics Engineering @ PoliMi
+- 💞️ I’m looking to collaborate on fun python projects, data analysis projects, with an emphasis on projects concerning climate change and the environment
+- 📫 How to reach me: julialeonardi.888@gmail.com :)
