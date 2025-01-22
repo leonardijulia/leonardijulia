@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonardijulia!
-- 👀 I’m interested in Geoinformatics, GIS, Geospatial & Environmental Data Analysis.
-- 👩🏽‍💻 I really love applying new technologies and code to help solve and/or analyse environmental issues.
-- 🌱 I’m currently pursuing a Master of Science degree in Geoinformatics Engineering @PoliMi
-- 💞️ I’m looking to collaborate on fun python projects, data analysis projects, with an emphasis on projects concerning climate change and the environment
+- 👀 I’m interested in the clash of Geoinformatics, Geospatial & Environmental Data Analysis with AI.
+- 👩🏽‍💻 I really love applying new technologies and code to help solve and/or analyze environmental issues.
+- 🌱 I’m currently pursuing a PhD @PoliMi.
+- 💞️ I’m looking to collaborate on fun Python projects, and data analysis projects, with an emphasis on projects concerning climate change and the environment.
 - 📫 How to reach me: julialeonardi.888@gmail.com or https://www.linkedin.com/in/leonardijulia/ :)
